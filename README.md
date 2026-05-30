@@ -22,7 +22,7 @@ ChemAI_Predict_the_Cure/
 ├── README.md
 ├── requirements.txt
 ├── notebooks/
-│   └── ChemAI_Predict_the_Cure.ipynb
+│   └── ChemAI_PredicttheCure Team DPO34.ipynb
 ├── submissions/
 │   └── full_boosting_stack_cat_lgbm_xgb_10fold_3seed_pearson159_si_log.csv
 └── presentations/
